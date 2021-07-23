@@ -37,4 +37,5 @@ func main() {
 	)
 
 	// constanta tidak harus digunakan, krn ada kemungkinan akan di gunakan kedepannya dari file lain. jadi tidak error 
+	// constanta must be prefix with "const"
 }
